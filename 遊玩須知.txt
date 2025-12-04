@@ -1,0 +1,11 @@
+#遊玩須知
+需要先安裝python
+並且安裝 pyglet 1.X版本( pip install "pyglet<2.0")以及pip install imageio pip install tkinter
+然後點開"start.bat"後選擇生存或是創造模式
+進入遊戲後WSAD為前後左右，左鍵可以破壞，右鍵可以放置
+
+#更新日誌
+可以改按鍵設定
+
+
+目前為Beta2.0
